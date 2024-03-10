@@ -4,7 +4,7 @@ import { CreateCampaign } from "../pages";
 import {
 	useAddress,
 	useContract,
-	useMetamask,
+	// useMetamask,
 	useContractWrite,
   ConnectWallet
 } from "@thirdweb-dev/react";
